@@ -2,3 +2,4 @@ grach/
 .ipynb_checkpoints
 .gitattributes
 *.csv
+venv/
